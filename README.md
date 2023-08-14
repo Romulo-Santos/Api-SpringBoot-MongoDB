@@ -1,4 +1,4 @@
-# Projeto-API-SpringBot-MongoDB + NoSQL
+# Projeto-API-SpringBoot-MongoDB + NoSQL
 Uma API para demostrar um pouco sobre a aplicação do MongoDB com Spring
 
 ## DIAGRAMA-UML DO PROJETO
